@@ -8,8 +8,8 @@ body {
 }
 
 .welcome-header {
-    margin-top: 115px;
-    margin-bottom: 70px;
+    margin-top: 110px;
+    margin-bottom: 65px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ body {
 
 .welcome-header__text {
     font-size: 14px;
-    margin-top: 30px;
+    margin-top: 20px;
     width: 70%;
     opacity: 75%;
     font-weight: 300;
@@ -46,12 +46,12 @@ body {
 #login-form input[type="submit"] {
     font-size: 15px;
     background-color: midnightblue;
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 20px;
     cursor: pointer;
     color: white;
     border-radius: 5px;
-    padding: 20px 0px;
+    padding: 15px 0px;
 }
 
 #login-form input::placeholder {
