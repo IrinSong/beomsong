@@ -70,3 +70,13 @@ body,th,td,input,select,textarea,button {font-size:14px;line-height:1.5;font-fam
 a {color:#333;text-decoration:none}
 a:active, a:hover {text-decoration:none}
 address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
+
+
+input, textarea, button {
+	appearance: none;
+	border-radius: 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+}

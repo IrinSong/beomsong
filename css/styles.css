@@ -33,6 +33,7 @@ body {
 
 #login-form input {
     border: none;
+    margin: 0px 0px;
 }
 
 #login-form input:not([type="submit"]) {
@@ -46,7 +47,7 @@ body {
 #login-form input[type="submit"] {
     font-size: 15px;
     background-color: midnightblue;
-    margin-top: 25px;
+    margin-top: 30px;
     margin-bottom: 20px;
     cursor: pointer;
     color: white;
