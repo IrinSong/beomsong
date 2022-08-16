@@ -19,7 +19,7 @@ body {
 
 .welcome-header__text {
     font-size: 14px;
-    margin-top: 45px;
+    margin-top: 30px;
     width: 70%;
     opacity: 75%;
     font-weight: 300;
@@ -33,7 +33,6 @@ body {
 
 #login-form input {
     border: none;
-    padding: 25px 0px;
 }
 
 #login-form input:not([type="submit"]) {
@@ -41,6 +40,7 @@ body {
     background-color: dodgerblue;
     border-bottom: 1px solid rgba(255,255,255,0.6);
     transition: border-color 0.3s ease-in-out;
+    padding: 25px 0px;
 }
 
 #login-form input[type="submit"] {
@@ -51,6 +51,7 @@ body {
     cursor: pointer;
     color: white;
     border-radius: 5px;
+    padding: 20px 0px;
 }
 
 #login-form input::placeholder {
