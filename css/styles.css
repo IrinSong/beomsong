@@ -50,6 +50,7 @@ body {
     margin-bottom: 20px;
     cursor: pointer;
     color: white;
+    border-radius: 5px;
 }
 
 #login-form input::placeholder {
@@ -64,5 +65,6 @@ body {
 #login-form a {
     font-size: 12px;
     text-align: center;
-    color: lightblue;
+    color: lightskyblue;
+    text-decoration: underline;
 }
