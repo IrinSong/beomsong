@@ -24,7 +24,8 @@ body {
 }
 
 .welcome-header__text {
-    width: 50%;
+    margin-top: 45px;
+    width: 70%;
     opacity: 75%;
     font-weight: 300;
 }
