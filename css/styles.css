@@ -52,7 +52,7 @@ body {
     cursor: pointer;
     color: white;
     border-radius: 5px;
-    padding: 15px 0px;
+    padding: 18px 0px;
 }
 
 #login-form input::placeholder {
@@ -69,4 +69,5 @@ body {
     text-align: center;
     color: lightskyblue;
     text-decoration: underline;
+    margin-top: 20px;
 }
