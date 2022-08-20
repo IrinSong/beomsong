@@ -1,0 +1,14 @@
+.nav-bar {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    padding: 18px 60px;
+    border-top: 1px solid rgba(0, 45, 90, 0.3);
+    box-sizing: border-box;
+}
+
+.nav-bar__ul {
+    display: flex;
+    justify-content: space-between;
+}
