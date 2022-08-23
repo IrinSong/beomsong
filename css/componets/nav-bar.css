@@ -26,8 +26,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 18px;
+    border-radius: 10px;
     position: absolute;
     right: 20px;
     bottom: 20px;
+}
+
+.nav-bar__dot {
+    background-color: gold;
+    height: 7px;
+    width: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+    position: absolute;
+    right: 33px;
+    bottom: 25px;
 }

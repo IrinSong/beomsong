@@ -4,6 +4,7 @@
 
 /* Componets */
 @import "componets/status-bar.css";
+@import "componets/screen-header.css";
 @import "componets/nav-bar.css";
 
 /* Screens */
